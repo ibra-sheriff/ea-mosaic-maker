@@ -57,7 +57,7 @@ To install the project ensure your Internet connection is working and simply exe
 
 The script uses the *requirements.txt* file that can be found in the documentation directory. The command can be executed using a *Linux* or *Mac* terminal, or the *Windows Subsystem* Bash terminal.
 
-<span style="color:red; font-weight: bold;">Note</span>: I assume that you have already installed [OpenCV](https://opencv.org/) on your machine.
+<span style="color:red; font-weight: bold;">Note</span>: I assume that you have already installed Python 3+ and [OpenCV](https://opencv.org/) on your machine.
 
 ### Download images for your Image Database
 To download images for your Image database simply change the main section of the *mosaic.py* script and execute the **download_images()** function. Run this the process as many times as you would like, just ensure to watch your hard drive storage space to ensure you do not run out of space.
