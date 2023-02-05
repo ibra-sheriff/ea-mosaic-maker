@@ -53,7 +53,7 @@ def get_best_individual(self):
 ## Installation and Running
 
 ### Installation
-To install the project ensure your Internet connection is working and simply execute the install Bash script as follows: **sh install.sh**
+To install the project ensure your Internet connection is working and simply execute the install Bash script as follows: **sh scripts/install.sh**
 
 The script uses the *requirements.txt* file that can be found in the documentation directory. The command can be executed using a *Linux* or *Mac* terminal, or the *Windows Subsystem* Bash terminal.
 
@@ -63,7 +63,7 @@ The script uses the *requirements.txt* file that can be found in the documentati
 To download images for your Image database simply change the main section of the *mosaic.py* script and execute the **download_images()** function. Run this the process as many times as you would like, just ensure to watch your hard drive storage space to ensure you do not run out of space.
 
 ### Run the EA Mosaic Maker
-To run the EA Mosaic Maker simply run the run Bash script as follows: **run.sh**
+To run the EA Mosaic Maker simply run the run Bash script as follows: **sh scripts/run.sh**
 
 ## Contribute
 Contact Ibrahim Sheriff Sururu at ibrahim@uthanzi.com if you would like to contribute to this project.
