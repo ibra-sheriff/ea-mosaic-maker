@@ -1,5 +1,5 @@
 # Evolutionary(EA) Mosaic-Maker
-![Black Dice Mosaic Maker](images/sample-images/sample_1/black_dice_50x50_matched_5255cac0-2d0d-46b5-b91b-fa6e48dfdf84.jpg)
+![Black Dice Mosaic](images/sample-images/sample_1/black_dice_50x50_matched_5255cac0-2d0d-46b5-b91b-fa6e48dfdf84.jpg)
 A picture mosaic or photographic mosaic can be a beautiful expression of an image but generating one can be a computationally expensive process. Given a large database of images a brute-force method can become too costly to consider. Finding a way to reduce the number of picture mosaics considered during the generation process is critical.
 
 This report is going to explore a method for generating a picture
